@@ -4,16 +4,14 @@ This folder contains documentation for all the actions users can perform in thei
 
 ## How to Access Profile Settings
 
-There are two ways to access your profile settings:
+**On Desktop**
+Click on your **display name** in the top right corner of the screen to go to your profile settings.
 
-**Method 1: Via Display Name**
-1. Click on your display name in the top right corner of the screen
+**On Mobile**
+1. Click the hamburger menu icon (☰) in the top right corner.
+2. Click **Settings**.
 
-**Method 2: Via Gear Icon**
-1. Click on the gear icon in the top right corner of the screen
-2. Click on "Settings" in the dropdown menu
-
-Both methods will take you to `/settings` where you can manage your profile and preferences.
+This will take you to your profile settings page at /settings where you can manage your profile and preferences
 
 ## Available User Actions
 
@@ -28,26 +26,23 @@ These settings are changed by clicking the edit button.
 - [Change System Email](change-system-email.md) - Update your primary system email address
 - [Change Password](change-password.md) - Reset your account password
 
-### Apps Section
-- [Enable/Disable Apps](manage-apps.md) - Turn on/off available magic link apps
-- [Access App Links](access-app-links.md) - Get direct links to your enabled apps
-- [Copy App Links](copy-app-links.md) - Copy app URLs to share or bookmark
+### Apps Settings
+- [Apps](apps.md) - Manage and access magic link apps
 
-### Multiplier Preferences Section
-- [Set Location Preferences](set-location-preferences.md) - Select locations you're willing to be responsible for
-- [Choose Languages](choose-languages.md) - Select languages you're comfortable speaking
-- [Select People Groups](select-people-groups.md) - Choose people groups you wish to serve
-- [Set Workload Status](set-workload-status.md) - Configure your availability to receive new contacts
+### Multiplier Preferences
+- [Multiplier Preferences](multiplier-preferences.md) - Configure your preferences for receiving new contacts
 
-### Availability Section
-- [Schedule Unavailable Dates](schedule-unavailable-dates.md) - Set dates when you'll be traveling or unavailable
-- [Remove Unavailable Dates](remove-unavailable-dates.md) - Delete previously scheduled unavailable periods
+## Availability Settings
+- [Availability](availability.md) - Manage your availability and schedule time off
 
-### Notifications Section
-- [Configure Email Preferences](configure-email-preferences.md) - Set real-time, hourly, or daily email digest
-- [Manage Notification Types](manage-notification-types.md) - Enable/disable specific types of notifications
-- [Set Channel Preferences](set-channel-preferences.md) - Choose how you want to receive different notifications
-- [Follow All Contacts](follow-all-contacts.md) - Enable notifications for all system updates (admin only)
+## Notification Settings
+- [Notifications](notifications/notifications.md) - Configure how and when you receive notifications
+  - [Manage Notification Preferences](notifications/manage-notification-preferences.md) - Control which notifications you receive and how
+  - [Email Notification Settings](notifications/email-notification-settings.md) - Configure email delivery frequency and options
+  - [View and Manage Notifications](notifications/view-and-manage-notifications.md) - Access your notification inbox and manage notifications
+  - [Notification Types](notifications/notification-types.md) - Understanding different types of notifications in Disciple.Tools
+  - [Notification Channels](notifications/notification-channels.md) - Available notification delivery methods (email, web, SMS, etc.)
+  - [Troubleshooting Notifications](notifications/troubleshooting-notifications.md) - Solve common notification issues
 
 ### Additional Actions
 - [View Contact Record](view-contact-record.md) - Access your associated contact record
