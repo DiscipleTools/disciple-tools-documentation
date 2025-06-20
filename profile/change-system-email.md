@@ -4,20 +4,25 @@ This guide explains how to change the primary system email address for your Disc
 
 ## How to Change Your System Email
 
-1.  **Navigate to Profile Settings**:
-    *   Click on your display name in the top right corner of the screen.
-    *   Alternatively, click the gear icon (⚙️) in the top right, then select "Settings" from the dropdown menu.
+### 1. Access Your Profile
 
-2.  **Open the Edit Modal**:
-    *   On the settings page, find the "Profile" section.
-    *   Click the "Edit" button to open the window where you can update your information.
+**On Desktop**
+Click on your **display name** in the top right corner of the screen to go to your profile settings.
 
-3.  **Update the System Email**:
-    *   Locate the **System Email** field.
-    *   Enter your new email address.
+**On Mobile**
+1. Click the hamburger menu icon (☰) in the top right corner.
+2. Click **Settings**.
 
-4.  **Save Your Changes**:
-    *   Click the "Save" button to submit the change.
+### 2. Open the Edit Modal
+*   On the settings page, find the "Profile" section.
+*   Click the "Edit" button to open the window where you can update your information.
+
+### 3. Update the System Email
+*   Locate the **System Email** field.
+*   Enter your new email address.
+
+### 4. Save Your Changes
+*   Click the "Save" button to submit the change.
 
 ## Important Notes
 

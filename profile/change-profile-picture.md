@@ -11,26 +11,22 @@ Disciple.Tools supports profile pictures through two different systems depending
 
 ## How to Change Your Profile Picture
 
-### Step 1: Access Profile Settings
+### 1. Access Your Profile
 
-Navigate to your profile settings using either method:
+**On Desktop**
+Click on your **display name** in the top right corner of the screen to go to your profile settings.
 
-**Method 1: Via Display Name**
-1. Click on your display name in the top right corner of the screen
+**On Mobile**
+1. Click the hamburger menu icon (☰) in the top right corner.
+2. Click **Settings**.
 
-**Method 2: Via Gear Icon** 
-1. Click on the gear icon in the top right corner of the screen
-2. Click on "Settings" in the dropdown menu
-
-Both methods will take you to `/settings` where you can manage your profile.
-
-### Step 2: Open Edit Profile Modal
+### 2. Open the Edit Modal
 
 1. On the settings page, locate the "Profile" section
 2. Click the **"Edit"** button to open the edit profile modal
 3. The modal will display your current profile picture at the top
 
-### Step 3: Change Your Profile Picture
+### 3. Change Your Profile Picture
 
 The profile picture options depend on your site's storage configuration:
 
@@ -65,7 +61,7 @@ If storage connections are not enabled, you will see:
 5. Associate the image with the email address used in your Disciple.Tools account
 6. Return to Disciple.Tools - your new Gravatar will appear automatically
 
-### Step 4: Save Changes
+### 4. Save Changes
 
 1. After uploading a file (direct upload) or setting up Gravatar, click the **"Save"** button
 2. The modal will close and your profile will be updated
@@ -80,8 +76,6 @@ Disciple.Tools displays the following security guidance for profile pictures:
 
 **For Gravatar Systems:**
 > "Disciple.Tools System does not store images. For profile images we use Gravatar (Globally Recognized Avatar). If you have security concerns, we suggest not using a personal photo, but instead choose a cartoon, abstract, or alias photo to represent you."
-
-
 
 ## Troubleshooting
 

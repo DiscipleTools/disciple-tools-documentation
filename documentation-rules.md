@@ -37,6 +37,7 @@ Rules for generating documentation for users and for AI.
 - Include prerequisite steps within procedural content
 - Define all acronyms and specialized terms
 - Avoid implicit knowledge assumptions
+- **Document UI variations**: Provide instructions for both mobile and desktop interfaces if they are different.
 
 ### 6. Disciple.Tools vs WordPress Distinctions
 - **Disciple.Tools is a custom application** built on WordPress but with completely different user interfaces, workflows, and features
@@ -118,11 +119,6 @@ Keep headers simple and descriptive:
 ---
 
 ## Format and Technical Requirements
-
-### File Formats
-- **Required**: Markdown (.md) files only
-- **Avoid**: PDFs, complex layouts, image-heavy content
-- **Structure**: Use standard markdown formatting with clear headings, lists, and paragraphs
 
 ### Content Organization
 - **One topic per document** unless closely related

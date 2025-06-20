@@ -2,21 +2,18 @@
 
 This guide explains how to change the display language for your user account in Disciple.Tools. The selected language will apply to the user interface elements like menus, buttons, and system-generated text.
 
-## How to Access Profile Settings
+## How to Change Your User Language
 
-You can access your profile settings to change your language using one of two methods:
+### 1. Access Your Profile
 
-**Method 1: Via Display Name**
-1.  Click on your **display name** in the top right corner of the Disciple.Tools screen. This will take you directly to your **Profile Settings** page (`/settings`).
+**On Desktop**
+Click on your **display name** in the top right corner of the screen to go to your profile settings.
 
-**Method 2: Via Settings Icon**
-1.  Click on the gear icon (⚙️) in the top right corner of the screen.
-2.  Click on **Settings** from the dropdown menu. This will also navigate you to the **Profile Settings** page (`/settings`).
+**On Mobile**
+1. Click the hamburger menu icon (☰) in the top right corner.
+2. Click **Settings**.
 
-## Changing Your User Language
-
-Once you are on the **Profile Settings** page, follow these steps to change your language:
-
+### 2. Update Your Language
 1.  In the **Profile** section, click the **Edit** button. This will open an editing modal.
 2.  Find the field labeled **System Language**.
 3.  Select your preferred language from the dropdown list.
