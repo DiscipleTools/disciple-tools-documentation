@@ -19,9 +19,13 @@ Rules for generating documentation for users and for AI.
 - **Provide step-by-step instructions** that anyone can follow
 - **Explain benefits and outcomes** rather than how things work internally
 - **Assume users are new to the platform** and need context
+- **Always start with how to access the feature**
+- **Do not write "contact your administrator"**
+- **Do not include sections for developers**
+- **Do not add sections on how to get extra help**
 
 ### 3. AI-Optimized Content
-- Create markdown documentation that serves both human readers and AI consumption
+- Create markdown documentation that serves both human readers and AI consumption. Only text, no pictures or visualizations.
 - Content should be explicit, self-contained, and contextually complete
 - Structure content for retrieval augmented generation (RAG) systems
 - Use only text-based explanations and instructions
