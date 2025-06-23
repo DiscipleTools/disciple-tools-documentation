@@ -1,0 +1,3 @@
+# Instructions
+
+Follow @documentation-rules.md and analyse the disciple-tools-theme code and create user documentation for ...
