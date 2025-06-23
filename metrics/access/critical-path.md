@@ -1,34 +1,36 @@
-# Project Metrics: Critical Path
+# Disciple.Tools | Metrics: Critical Path
 
-The Critical Path report is the most comprehensive view of your ministry's overall health and progress. It provides a top-level summary of all key activities across the entire project, from initial outreach to the multiplication of disciples and churches. It is an essential tool for leaders to track movement-wide trends.
+The Critical Path report gives you a complete overview of your ministry's health and progress. It summarizes all key activities across your entire project, from the first outreach to the multiplication of disciples and churches. This report is a key tool for leaders who want to track movement-wide trends.
 
-To access this report, navigate to **Metrics** > **Access** > **Critical Path**.
+## How to Access the Critical Path Report
+1. Go to the **Metrics** area in the main menu.
+2. Select **Critical Path** from the **Access** section.
 
 ## Understanding the Critical Path Report
 
-The Critical Path report is presented as a table that summarizes activity over a specific time period. You can use the date filter at the top of the page to view data for a custom range, such as the last month, the last year, or the entire history of the project.
+The Critical Path report is a table that shows a summary of activity over a time period you choose. You can use the date filter at the top of the page to see data for a specific range, like the last month, the last year, or the entire history of the project.
 
-The report is divided into sections that follow the typical journey of a disciple.
+The report is divided into sections that follow the typical spiritual journey.
 
 ### Outreach
-This section tracks the earliest activities designed to make new connections. It often includes metrics from integrated services like social media or websites.
-- **Metrics**: The specific metrics shown here depend on what is being tracked by your system, but can include items like `Website Visitors` or `Social Media Interactions`.
-- **Value**: The number of interactions recorded during the selected time period.
-- **Total**: The cumulative total of these interactions since the beginning of tracking.
+This section tracks the first activities you use to make new connections. It often includes metrics from connected services like social media or websites.
+- **Metrics**: The exact metrics you see here depend on what your system is tracking. They can include things like `Website Visitors` or `Social Media Interactions`.
+- **Value**: The number of interactions that happened during the time period you selected.
+- **Total**: The total number of these interactions since you started tracking.
 
 ### Follow Up
-This section tracks the progress of new contacts as they move through the discipleship pipeline.
-- **New Contacts**: The number of new contacts created in the selected time period.
-- **Assigned Contacts**: Contacts that were assigned to a user for follow-up.
-- **Active Contacts**: Contacts with an "Active" status.
-- **Seeker Path Milestones**: The report shows counts for each step in your site's configured Seeker Path (e.g., `First Meeting`, `Ongoing Meetings`, `Being Coached`).
+This section tracks the progress of new contacts as they move through your discipleship process.
+- **New Contacts**: The number of new contacts added in the time period you selected.
+- **Assigned Contacts**: The number of contacts that were given to a user for follow-up.
+- **Active Contacts**: The number of contacts with an "Active" status.
+- **Seeker Path Milestones**: This part of the report shows how many contacts have reached each step of your site's custom Seeker Path (e.g., `First Meeting`, `Ongoing Meetings`, `Being Coached`).
 
 ### Movement Training
-This final section tracks the multiplication of disciples and churches, which is the ultimate goal of a Disciple Making Movement.
-- **Baptisms**: Total baptisms recorded.
-- **Baptism Generations**: A breakdown of baptisms by generation (1st, 2nd, 3rd, etc.) to show spiritual multiplication.
+This final section tracks the multiplication of disciples and churches, which is the main goal of a Disciple Making Movement.
+- **Baptisms**: The total number of baptisms recorded.
+- **Baptism Generations**: A breakdown of baptisms by generation (1st, 2nd, 3rd, etc.) to show how disciples are multiplying.
 - **Groups**: The number of active groups.
-- **Churches**: The number of active groups designated as churches.
-- **Church Generations**: A breakdown of churches by generation to show church-planting multiplication.
+- **Churches**: The number of active groups that are marked as churches.
+- **Church Generations**: A breakdown of churches by generation to show how new churches are being planted.
 
-By analyzing the numbers from each section, leaders can identify bottlenecks in their discipleship process and celebrate areas of strong growth. 
+By looking at the numbers in each section, leaders can find areas where their discipleship process could be improved and celebrate where there is strong growth. 

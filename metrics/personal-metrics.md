@@ -1,14 +1,16 @@
-# Personal Metrics
+# Disciple.Tools | Personal Metrics
 
-Personal Metrics focus on your individual activity and the contacts and groups you are connected to. These reports help you track your own progress and ministry efforts.
+Personal Metrics show your individual activity and the progress of the contacts and groups you are responsible for. These reports are designed to help you track your personal ministry efforts and see the fruit of your work.
 
-To view Personal Metrics, navigate to the **Metrics** section and select an option from the **Personal** submenu.
+To view your Personal Metrics, go to the **Metrics** section in the main menu and choose an option from the **Personal** submenu.
 
-Below is a list of the available personal reports.
+## Available Personal Reports
 
-- [Activity Highlights](./personal/activity-highlights.md): A summary of your recent activity and key accomplishments.
-- [Activity Log](./personal/activity-log.md): A detailed, chronological list of every action you have taken.
-- [Overview](./personal/overview.md): A dashboard combining several key data points for a quick look at your progress.
-- [GenMapper Trees](./personal/genmapper-trees.md): A tree view showing the multiplication of disciples and churches in your network.
-- [Maps](./personal/maps.md): Visualizations of your contacts and groups by geographic location.
+Here is a list of the reports you can find in your Personal Metrics section:
+
+- **[Activity Highlights](./personal/activity-highlights.md)**: A summary of your recent activities and key accomplishments.
+- **[Activity Log](./personal/activity-log.md)**: A detailed, chronological list of every action you have taken in the system.
+- **[Overview](./personal/overview.md)**: A dashboard that combines several important data points for a quick look at your progress.
+- **[GenMapper Trees](./personal/genmapper-trees.md)**: A tree diagram showing the multiplication of disciples and churches that started with you.
+- **[Maps](./personal/maps.md)**: A map view showing the geographic locations of your contacts and groups.
 

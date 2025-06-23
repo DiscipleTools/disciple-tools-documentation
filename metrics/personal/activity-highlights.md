@@ -1,28 +1,28 @@
-# Personal Metrics: Activity Highlights
+# Disciple.Tools | Metrics: Activity Highlights
 
-The Activity Highlights report gives you a quick summary of your ministry activities and their impact. It also shows you important updates made by others on your contacts and groups. This helps you stay informed and see your progress at a glance.
+The Activity Highlights report gives you a quick summary of your ministry activities and their results. It also shows you important updates made by other people on your contacts and groups. This helps you stay up-to-date and see your progress easily.
 
-To access this report, navigate to **Metrics** > **Personal** > **Activity Highlights**.
+## How to Access the Activity Highlights Report
+1. Go to the **Metrics** area in the main menu.
+2. Select **Activity Highlights** from the **Personal** section.
 
 ## What This Report Shows
 
-The report is divided into two main columns: **Your Activity** and **Activity from Others**. You can filter the entire report by a specific date range at the top of the page.
+The report is split into two main columns: **Your Activity** and **Activity from Others**. You can filter the whole report by a specific date range at the top of the page.
 
 ### Your Activity
+This column summarizes the actions you have taken yourself in Disciple.Tools. It includes:
 
-This column summarizes the direct actions you have taken in Disciple.Tools. It includes the following categories:
-
-*   **Records Created**: The number of new contacts and groups you have personally created.
-*   **Milestones Reached**: Tracks when you have updated key milestones for your contacts, such as "First Meeting" or "Ongoing Meetings." It also tracks updates to group health (e.g., "Practicing Tithing").
-*   **Baptisms**: A count of the contacts you have personally recorded as baptized.
-*   **Comments Posted**: The total number of comments you have made on contact and group records.
-*   **Comments Reacted To**: The number of times you have used the "reaction" feature on comments.
+- **Records Created**: The number of new contacts and groups you have created.
+- **Milestones Reached**: Tracks when you have updated important milestones for your contacts, such as "First Meeting" or "Ongoing Meetings." It also tracks updates to group health (e.g., "Practicing Tithing").
+- **Baptisms**: A count of the contacts you have recorded as baptized.
+- **Comments Posted**: The total number of comments you have made on records.
+- **Comments Reacted To**: The number of times you have "reacted" to a comment.
 
 ### Activity from Others
+This column helps you know what other people are doing on the contacts and groups that you are assigned to. This is helpful for teamwork and tracking your team's progress.
 
-This column keeps you informed about what others are doing on the contacts and groups that are assigned to you. This is useful for collaboration and tracking team progress.
+- **Milestones Updated by Others**: Shows when another user updates a milestone on one of your contacts or groups. For example, if a team member marks one of your contacts as "Contact Established."
+- **Baptisms by Others**: A count of baptisms recorded by other users on contacts that you are assigned to.
 
-*   **Milestones Updated by Others**: Shows when another user updates a milestone on one of your contacts or groups. For example, if a team member marks one of your contacts as "Contact Established."
-*   **Baptisms by Others**: A count of baptisms performed by other users on contacts that you are assigned to.
-
-By reviewing both columns, you get a complete picture of the activity surrounding your ministry focus, celebrating both your direct contributions and the collaborative efforts of your team. 
+By looking at both columns, you can get a full picture of the activity related to your ministry, celebrating both what you have done and the work of your team. 

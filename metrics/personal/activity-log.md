@@ -1,26 +1,27 @@
-# Personal Metrics: Activity Log
+# Disciple.Tools | Metrics: Activity Log
 
-The Activity Log provides a detailed, chronological list of every action you have taken within Disciple.Tools. It is a comprehensive record of your work, helping you keep track of all your updates and interactions.
+The Activity Log gives you a detailed list of every action you have taken in Disciple.Tools, in the order you did them. It is a complete record of your work, which helps you keep track of all your updates and interactions.
 
-To access this report, navigate to **Metrics** > **Personal** > **Activity Log**.
+## How to Access the Activity Log
+1. Go to the **Metrics** area in the main menu.
+2. Select **Activity Log** from the **Personal** section.
 
 ## Understanding the Activity Log
 
-The Activity Log displays a continuous stream of your activities, with the most recent actions appearing at the top. Each entry in the log provides key details about an action that was performed.
+The Activity Log shows a list of your activities, with the most recent actions at the top. Each item in the log gives you important details about an action that you took.
 
 ### What is Recorded?
+The log records many types of activities, including:
 
-The log captures a wide range of activities, including but not limited to:
+- **Creating Records**: When you create a new contact, group, or any other type of record.
+- **Updating Records**: Any changes you make to a record's fields, like updating a contact's status, changing a group's name, or adding a location.
+- **Posting Comments**: Every comment you write on a contact or group record.
+- **Assigning Records**: When you assign a contact or group to another user.
+- **Milestone Updates**: When you record a milestone, like a baptism or a first meeting.
 
-*   **Creating Records**: When you create a new contact, group, or other type of post.
-*   **Updating Records**: Any changes made to a record's fields, such as updating a contact's status, changing a group's name, or adding a location.
-*   **Posting Comments**: Every comment you write on a contact or group record.
-*   **Assigning Records**: When you assign a contact or group to another user.
-*   **Milestone Updates**: When you log a milestone, like a baptism or a first meeting.
+Each item in the log includes:
+- A description of the action.
+- The name of the record that was changed.
+- The time the action happened.
 
-Each entry includes:
-- A description of the action taken.
-- The name of the record that was affected.
-- The time the action occurred.
-
-This report is especially useful for reviewing your work history or finding the specific time you made a particular update.
+This report is very useful for looking back at your work history or finding the exact time you made a specific update.
