@@ -3,10 +3,10 @@
 ## Front End
 
 ### User Section
-- [ ] List users
-- [ ] Editing users
-- [ ] Creating users
-- [ ] Seeing users on the map
+- [x] List users
+- [x] Editing users
+- [x] Creating users
+- [x] Seeing users on the map
 
 ### Records Section
 - [ ] Merging contacts and managing the merging view
