@@ -9,10 +9,11 @@
 - [x] Seeing users on the map
 
 ### Records Section
-- [ ] Merging contacts and managing the merging view
-- [ ] Making a user from a contact record
+- [x] Duplicate detection and management
+- [x] Merging contacts and managing the merging view
+- [x] Making a user from a contact record
 - [ ] Linking a contact to an existing user
-- [ ] The record tasks modal
+- [x] The record tasks modal
 
 ## WP Admin
 
