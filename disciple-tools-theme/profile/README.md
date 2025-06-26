@@ -44,10 +44,6 @@ These settings are changed by clicking the edit button.
   - [Notification Channels](notifications/notification-channels.md) - Available notification delivery methods (email, web, SMS, etc.)
   - [Troubleshooting Notifications](notifications/troubleshooting-notifications.md) - Solve common notification issues
 
-### Additional Actions
-- [View Contact Record](view-contact-record.md) - Access your associated contact record
-- [Invite New Users](invite-new-users.md) - Add new users to the system (if permissions allow)
-
 ## Navigation
 
 The settings page has a sticky navigation menu on the left side that allows quick jumping to different sections:
