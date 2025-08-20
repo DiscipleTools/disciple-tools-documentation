@@ -23,6 +23,7 @@ Comprehensive guides for working with individual records in detail view.
 #### Record Management
 - **[Editing Records](./disciple-tools-theme/details-view/editing-records.md)** - How to modify and update record information
 - **[Comments](./disciple-tools-theme/details-view/comments.md)** - Adding, editing, and managing comments on records
+- **[Voice and Picture Comments](./disciple-tools-theme/details-view/details-voice-picture-comments.md)** - How to use voice and picture comments
 - **[Record Tasks Modal](./disciple-tools-theme/details-view/record-tasks-modal.md)** - Using the tasks interface for record management
 - **[Record Access](./disciple-tools-theme/details-view/record-access.md)** - Managing permissions and access to records
 - **[Private Fields](./disciple-tools-theme/details-view/private-fields.md)** - Working with confidential information
@@ -120,6 +121,11 @@ Analyze your data and track progress with comprehensive metrics.
 - **[Activity Log](./disciple-tools-theme/metrics/personal/activity-log.md)** - Detailed personal activity history
 - **[Maps](./disciple-tools-theme/metrics/personal/maps.md)** - Personal geographic data and visualization
 - **[Genmapper Trees](./disciple-tools-theme/metrics/personal/genmapper-trees.md)** - Personal generational movement tracking
+
+## WP Admin
+
+### DT Settings
+- **[Storage](./disciple-tools-theme/wp-admin/dt-settings/storage.md)** - How to configure storage settings
 
 ## Plugins
 
