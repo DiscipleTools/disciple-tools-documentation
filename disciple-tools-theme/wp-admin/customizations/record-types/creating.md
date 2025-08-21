@@ -1,6 +1,21 @@
 # Creating a New Record Type
 
-To create a new record type:
+## Accessing New Record Type Functionality
+
+`WP Admin > Customizations (D.T) BETA > New Record Type`
+
+__On Desktop__
+
+1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
+2. `New Record Type` button located at top of page.
+
+__On Mobile__
+
+1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
+2. `New Record Type` button located at top of page.
+
+
+## New Record Type Workflow
 
 1. Go to the **Customizations (D.T)** menu in the admin sidebar.
 2. At the top of the page, click the **New Record Type** button.

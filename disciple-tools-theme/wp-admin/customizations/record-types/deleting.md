@@ -2,6 +2,26 @@
 
 > **Warning:** Deleting a record type will permanently delete all records of that type. This action cannot be undone.
 
+## Accessing Record Type Delete Functionality
+
+`WP Admin > Customizations (D.T) BETA > [Record Type] > Settings > Delete`
+
+__On Desktop__
+
+1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
+2. Identify and click on Record Type button located at top of page.
+3. Navigate to `Settings` tab.
+4. The Delete button can be located at bottom of tab view.
+
+__On Mobile__
+
+1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
+2. Identify and click on Record Type button located at top of page.
+3. Navigate to `Settings` tab.
+4. The Delete button can be located at bottom of tab view.
+
+## Delete Record Type Workflow
+
 To delete a custom record type:
 
 1. Go to the **Customizations (D.T)** menu and select the record type you want to delete.

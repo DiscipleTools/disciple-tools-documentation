@@ -1,17 +1,41 @@
 # Modifying Tiles
 
-You can update the label, icon, and visibility of any tile.
+## Accessing Tile Editing Functionality
+
+`WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles > [Tile] > Edit`
+
+__On Desktop__
+
+1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
+2. Identify and click on record type to be updated.
+3. Navigate to `Tiles` tab.
+4. Click the edit pencil button, next to the tile to be modified.
+
+__On Mobile__
+
+1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
+2. Identify and click on record type to be updated.
+3. Navigate to `Tiles` tab.
+4. Click the edit pencil button, next to the tile to be modified.
+
+## Edit Tile Workflow
+
+You can update the label and visibility of any tile.
 
 To edit an existing tile:
 
 1. Click on the edit icon next to the tile name in the Customizations menu.
 2. Update the tile details as needed:
-   - **Tile Label**: Change the display name for the tile
-   - **Icon**: Change or add an icon for the tile
-   - **Hide Tile**: Hide the tile from the record details page
-3. Click **Update Tile** to save your changes.
+   - **Label**: Change the display name for the tile.
+   - **Description**: Update tile summary description.
+   - **Translations**: Click on the translation button next to both label and description fields, to capture different languages. A total count of translations is also provided as part of the button label.
+   - **Hide Tile**: Hide the tile from the record details page.
+   - **Visibility**: Click on the `Legacy Settings` link to access advanced visibility options.
+3. Click **Save Button** to capture changes.
 
 ![Edit Tile Modal](../imgs/tiles/edit-tile-modal.png)
+
+4. Click **Delete Tile** to remove tile from record type.
 
 ---
 

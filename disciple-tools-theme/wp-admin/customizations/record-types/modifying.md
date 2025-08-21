@@ -1,5 +1,23 @@
 # Modifying Record Type Settings
 
+## Accessing Record Type Editing Functionality
+
+`WP Admin > Customizations (D.T) BETA > [Record Type] > Settings`
+
+__On Desktop__
+
+1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
+2. Identify and click on Record Type button located at top of page.
+3. Navigate to `Settings` tab.
+
+__On Mobile__
+
+1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
+2. Identify and click on Record Type button located at top of page.
+3. Navigate to `Settings` tab.
+
+## Modifying Record Type Workflow
+
 You can update the display labels and navigation settings for any record type.
 
 To modify an existing record type:

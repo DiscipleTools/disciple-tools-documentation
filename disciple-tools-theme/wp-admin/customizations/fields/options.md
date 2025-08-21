@@ -1,5 +1,29 @@
 # Field Options
 
+## Accessing Field Options Functionality
+
+`WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles > [Tile] > [Field] > Field Option`
+
+__On Desktop__
+
+1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
+2. Identify and select record type to be updated.
+3. Navigate to `Tiles` tab.
+4. Identify tile containing existing field to be updated.
+5. Expand tile field list and click on relevant (key-select or multi-select) field, to expand options list.
+6. Either add or edit target option.
+
+__On Mobile__
+
+1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
+2. Identify and select record type to be updated.
+3. Navigate to `Tiles` tab.
+4. Identify tile containing existing field to be updated.
+5. Expand tile field list and click on relevant (key-select or multi-select) field, to expand options list.
+6. Either add or edit target option.
+
+## Field Option Workflow
+
 For **Key Select** and **Multi-Select** fields, you can manage the available options that users can select from.
 
 To manage field options:
