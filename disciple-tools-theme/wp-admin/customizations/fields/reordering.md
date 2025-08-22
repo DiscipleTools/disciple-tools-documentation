@@ -4,21 +4,15 @@
 
 `WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles > [Tile]`
 
-__On Desktop__
+To access the field reordering functionality, follow these steps:
 
-1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
-2. Identify and select record type to be updated.
-3. Navigate to `Tiles` tab.
-4. Identify tile to be updated and click on tile to expand and display field list.
-5. Drag and drop fields accordingly to reorder.
-
-__On Mobile__
-
-1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
-2. Identify and select record type to be updated.
-3. Navigate to `Tiles` tab.
-4. Identify tile to be updated and click on tile to expand and display field list.
-5. Drag and drop fields accordingly to reorder.
+1. Navigate to the WordPress Admin dashboard of your Disciple.Tools instance.
+   - Click the settings icon (⚙️ on desktop, ☰ on mobile) and select **Admin**.
+2. From the main left sidebar, click on **Customizations (D.T)**.
+3. Identify and select record type to be updated.
+4. Navigate to `Tiles` tab.
+5. Identify tile to be updated and click on tile to expand and display field list.
+6. Drag and drop fields accordingly to reorder.
 
 ## Reordering Fields Workflow
 

@@ -4,19 +4,14 @@
 
 `WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles > [Tile] > Edit`
 
-__On Desktop__
+To access the tile editing functionality, follow these steps:
 
-1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
-2. Identify and click on record type to be updated.
-3. Navigate to `Tiles` tab.
-4. Click the edit pencil button, next to the tile to be modified.
-
-__On Mobile__
-
-1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
-2. Identify and click on record type to be updated.
-3. Navigate to `Tiles` tab.
-4. Click the edit pencil button, next to the tile to be modified.
+1. Navigate to the WordPress Admin dashboard of your Disciple.Tools instance.
+   - Click the settings icon (⚙️ on desktop, ☰ on mobile) and select **Admin**.
+2. From the main left sidebar, click on **Customizations (D.T)**.
+3. Identify and click on record type to be updated.
+4. Navigate to `Tiles` tab.
+5. Click the edit pencil button, next to the tile to be modified.
 
 ## Edit Tile Workflow
 

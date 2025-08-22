@@ -6,21 +6,15 @@ Role permissions allow you to control which user roles can view, create, edit, o
 
 `WP Admin > Customizations (D.T) BETA > [Record Type] > Roles`
 
-__On Desktop__
+To access the role permissions functionality, follow these steps:
 
-1. Access the customizations feature, as described within [Accessing Menu](./accessing-menu.md)
-2. Select record type to be updated.
-3. Navigate to `Roles` tab.
-4. Un/Check role permissions accordingly, based on requirements. 
-5. Click update button to save changes.
-
-__On Mobile__
-
-1. Access the customizations feature, as described within [Accessing Menu](./accessing-menu.md)
-2. Select record type to be updated.
-3. Navigate to `Roles` tab.
-4. Un/Check role permissions accordingly, based on requirements.
-5. Click update button to save changes.
+1. Navigate to the WordPress Admin dashboard of your Disciple.Tools instance.
+   - Click the settings icon (⚙️ on desktop, ☰ on mobile) and select **Admin**.
+2. From the main left sidebar, click on **Customizations (D.T)**.
+3. Select record type to be updated.
+4. Navigate to `Roles` tab.
+5. Un/Check role permissions accordingly, based on requirements. 
+6. Click update button to save changes.
 
 ## What Are Role Permissions?
 

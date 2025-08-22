@@ -4,21 +4,16 @@
 
 `WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles > [Tile] > Add New Field`
 
-__On Desktop__
+To access the add new field functionality, follow these steps:
 
-1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
-2. Identify and select record type to be updated.
-3. Navigate to `Tiles` tab.
-4. Identify tile where field is to be added and click on tile to expand and display field list.
-5. Click `add new field` option at the end of field list.
+1. Navigate to the WordPress Admin dashboard of your Disciple.Tools instance.
+   - Click the settings icon (⚙️ on desktop, ☰ on mobile) and select **Admin**.
+2. From the main left sidebar, click on **Customizations (D.T)**.
+3. Identify and select record type to be updated.
+4. Navigate to `Tiles` tab.
+5. Identify tile where field is to be added and click on tile to expand and display field list.
+6. Click `add new field` option at the end of field list.
 
-__On Mobile__
-
-1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
-2. Identify and select record type to be updated.
-3. Navigate to `Tiles` tab.
-4. Identify tile where field is to be added and click on tile to expand and display field list.
-5. Click `add new field` option at the end of field list.
 
 ## Adding New Field Workflow
 

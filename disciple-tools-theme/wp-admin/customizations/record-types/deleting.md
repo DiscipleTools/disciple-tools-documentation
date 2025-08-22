@@ -6,19 +6,14 @@
 
 `WP Admin > Customizations (D.T) BETA > [Record Type] > Settings > Delete`
 
-__On Desktop__
+To access the record type delete functionality, follow these steps:
 
-1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
-2. Identify and click on Record Type button located at top of page.
-3. Navigate to `Settings` tab.
-4. The Delete button can be located at bottom of tab view.
-
-__On Mobile__
-
-1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
-2. Identify and click on Record Type button located at top of page.
-3. Navigate to `Settings` tab.
-4. The Delete button can be located at bottom of tab view.
+1. Navigate to the WordPress Admin dashboard of your Disciple.Tools instance.
+   - Click the settings icon (⚙️ on desktop, ☰ on mobile) and select **Admin**.
+2. From the main left sidebar, click on **Customizations (D.T)**.
+3. Identify and click on Record Type button located at top of page.
+4. Navigate to `Settings` tab.
+5. The Delete button can be located at the bottom of tab view.
 
 ## Delete Record Type Workflow
 

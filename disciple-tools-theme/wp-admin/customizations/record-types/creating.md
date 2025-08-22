@@ -4,16 +4,12 @@
 
 `WP Admin > Customizations (D.T) BETA > New Record Type`
 
-__On Desktop__
+To access the new record type functionality, follow these steps:
 
-1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
-2. `New Record Type` button located at top of page.
-
-__On Mobile__
-
-1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
-2. `New Record Type` button located at top of page.
-
+1. Navigate to the WordPress Admin dashboard of your Disciple.Tools instance.
+   - Click the settings icon (⚙️ on desktop, ☰ on mobile) and select **Admin**.
+2. From the main left sidebar, click on **Customizations (D.T)**.
+3. `New Record Type` button located at top of page.
 
 ## New Record Type Workflow
 

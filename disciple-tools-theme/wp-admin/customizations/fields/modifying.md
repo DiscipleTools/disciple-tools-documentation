@@ -4,21 +4,15 @@
 
 `WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles > [Tile] > [Field] > Edit Field`
 
-__On Desktop__
+To access the edit field functionality, follow these steps:
 
-1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
-2. Identify and select record type to be updated.
-3. Navigate to `Tiles` tab.
-4. Identify tile containing existing field to be updated.
-5. Expand tile field list and click edit option associated with field to be updated.
-
-__On Mobile__
-
-1. Access the customizations feature, as described within [Accessing Menu](../accessing-menu.md)
-2. Identify and select record type to be updated.
-3. Navigate to `Tiles` tab.
-4. Identify tile containing existing field to be updated.
-5. Expand tile field list and click edit option associated with field to be updated.
+1. Navigate to the WordPress Admin dashboard of your Disciple.Tools instance.
+   - Click the settings icon (⚙️ on desktop, ☰ on mobile) and select **Admin**.
+2. From the main left sidebar, click on **Customizations (D.T)**.
+3. Identify and select record type to be updated.
+4. Navigate to `Tiles` tab.
+5. Identify tile containing existing field to be updated.
+6. Expand tile field list and click edit option associated with field to be updated.
 
 ## Edit Field Workflow
 
