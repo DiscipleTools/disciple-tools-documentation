@@ -18,8 +18,9 @@ Using S3 compatible storage ensures that your media is protected and only access
 
 To access the storage configuration page, follow these steps:
 
-1.  Navigate to the Wordress Admin dashboard of your Disciple.Tools instance. Click the gear icon (⚙️) in the top right of the screen and select **Admin**.
-2.  From the main sidebar, click on **Settings (D.T)**.
+1.  Navigate to the Wordpress Admin dashboard of your Disciple.Tools instance.
+    - Click the settings icon (⚙️ on desktop, ☰ on mobile) and select **Admin**.
+2.  From the main left sidebar, click on **Settings (D.T)**.
 3.  Select the **Storage** tab.
 
 ## Configuring an S3 Connection
