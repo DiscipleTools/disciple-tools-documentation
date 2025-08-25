@@ -2,7 +2,7 @@
 
 ## Accessing Record Type Editing Functionality
 
-`WP Admin > Customizations (D.T) BETA > [Record Type] > Settings`
+`WP Admin > Customizations (D.T) > [Record Type] > Settings`
 
 To access the record type edit functionality, follow these steps:
 

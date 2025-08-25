@@ -2,7 +2,7 @@
 
 ## Accessing Field Options Functionality
 
-`WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles > [Tile] > [Field] > Field Option`
+`WP Admin > Customizations (D.T) > [Record Type] > Tiles > [Tile] > [Field] > Field Option`
 
 To access the field options functionality, follow these steps:
 

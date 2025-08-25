@@ -4,7 +4,7 @@ Role permissions allow you to control which user roles can view, create, edit, o
 
 ## Accessing Role Permissions Functionality
 
-`WP Admin > Customizations (D.T) BETA > [Record Type] > Roles`
+`WP Admin > Customizations (D.T) > [Record Type] > Roles`
 
 To access the role permissions functionality, follow these steps:
 
@@ -20,29 +20,28 @@ To access the role permissions functionality, follow these steps:
 
 Each user in Disciple.Tools is assigned a role (such as Administrator, DT Admin, or custom roles). For each record type, you can specify what actions each role is allowed to perform:
 
-- **View**: See records of this type
-- **Create**: Add new records
-- **Update**: Edit existing records
-- **Delete**: Remove records
-- Other specific permissions as available
+- **View and Manage**: Grants basic access to the record type's user interface and allows users to manage records they have permission to view. This is the foundational permission required to interact with any record type. Without this permission, users cannot access the record type's pages or features.
+- **Create Records**: Allows users to create new records of the specified type. Users with this permission can add new contacts, groups, or custom records to the system.
+- **Delete Any**: Permits deletion of any record of the specified type, regardless of assignment or sharing permissions. This is a powerful permission that bypasses normal ownership restrictions.
+- **Manage all access and media contacts**: A contact-specific permission that allows viewing and updating all standard/access type contacts and media contacts. This is useful for administrators who need to manage system-level contact records.
+- **Preview All**: Enables viewing record lists and basic information for search purposes without accessing full record details. This permission is particularly useful for typeahead searches and dropdown selections where users need to see record names but not sensitive details.
+- **Update Any**: Allows editing any record of the specified type, bypassing normal assignment and sharing restrictions. Users with this permission can modify any record regardless of whether they are assigned to it or have been granted specific sharing access.
+- **View all, including private**: Grants access to view any record of the specified type, including private/personal records that would normally be restricted. For contacts, this specifically includes private contacts that other users cannot typically see.
+
+## Permission Hierarchy
+
+Permissions follow a hierarchical structure:
+
+1. **Basic Access** (`View and Manage`) is required for any interaction with a record type
+2. **Specific Actions** (`Create`, `Update`, `Delete`) are checked in addition to basic access
+3. **"Any" Permissions** (`Update Any`, `Delete Any`, `View All`) bypass normal sharing restrictions
+4. **Preview Permission** allows limited access for search functionality without full record access
 
 ## Why Manage Role Permissions?
 
 - Protect sensitive information
 - Simplify the user experience by hiding irrelevant features
 - Ensure only authorized users can make changes
-
-## Role & Permissions Data Matrix
-
-| | Administrator | Dispatcher | Disciple.Tools Admin | Digital Responder | Multiplier | Network Dashboard Viewer | Partner | Strategist | User Manager |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| View and Manage | x | x | x | x | x | x | x | x | x |
-| Create Records | x | x | x | x | x | x | x | x | x |
-| Delete Any | x | x | x | x | x | x | x | x | x |
-| Manage all access and media | x | x | x | x | x | x | x | x | x |
-| Preview All | x | x | x | x | x | x | x | x | x |
-| Update Any | x | x | x | x | x | x | x | x | x |
-| View all, including private | x | x | x | x | x | x | x | x | x |
 
 ## How to Configure Role Permissions
 

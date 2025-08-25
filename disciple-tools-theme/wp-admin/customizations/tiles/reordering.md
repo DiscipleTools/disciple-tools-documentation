@@ -2,7 +2,7 @@
 
 ## Accessing Tile Reordering Functionality
 
-`WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles`
+`WP Admin > Customizations (D.T) > [Record Type] > Tiles`
 
 To access the tile reordering functionality, follow these steps:
 

@@ -4,7 +4,7 @@
 
 ## Accessing Record Type Delete Functionality
 
-`WP Admin > Customizations (D.T) BETA > [Record Type] > Settings > Delete`
+`WP Admin > Customizations (D.T) > [Record Type] > Settings > Delete`
 
 To access the record type delete functionality, follow these steps:
 

@@ -2,7 +2,7 @@
 
 ## Accessing Add New Field Functionality
 
-`WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles > [Tile] > Add New Field`
+`WP Admin > Customizations (D.T) > [Record Type] > Tiles > [Tile] > Add New Field`
 
 To access the add new field functionality, follow these steps:
 

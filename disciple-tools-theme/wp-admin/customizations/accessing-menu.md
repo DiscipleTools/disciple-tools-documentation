@@ -1,6 +1,6 @@
 # Accessing the Customizations Menu
 
-`WP Admin > Customizations (D.T) BETA`
+`WP Admin > Customizations (D.T)`
 
 __Accessing From The Frontend__
 

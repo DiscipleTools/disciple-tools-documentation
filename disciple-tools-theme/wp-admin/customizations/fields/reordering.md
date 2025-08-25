@@ -2,7 +2,7 @@
 
 ## Accessing Field Reordering Functionality
 
-`WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles > [Tile]`
+`WP Admin > Customizations (D.T) > [Record Type] > Tiles > [Tile]`
 
 To access the field reordering functionality, follow these steps:
 

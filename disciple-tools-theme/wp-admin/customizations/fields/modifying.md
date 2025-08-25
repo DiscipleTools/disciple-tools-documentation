@@ -2,7 +2,7 @@
 
 ## Accessing Edit Field Functionality
 
-`WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles > [Tile] > [Field] > Edit Field`
+`WP Admin > Customizations (D.T) > [Record Type] > Tiles > [Tile] > [Field] > Edit Field`
 
 To access the edit field functionality, follow these steps:
 

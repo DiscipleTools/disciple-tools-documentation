@@ -2,7 +2,7 @@
 
 ## Accessing Tile Editing Functionality
 
-`WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles > [Tile] > Edit`
+`WP Admin > Customizations (D.T) > [Record Type] > Tiles > [Tile] > Edit`
 
 To access the tile editing functionality, follow these steps:
 

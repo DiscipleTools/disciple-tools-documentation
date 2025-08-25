@@ -31,7 +31,7 @@ There is no hard-coded limit, but creating a very large number of custom items m
 
 Creating new record types, can be actioned as follows:
 
-`WP Admin > Customizations (D.T) BETA > New Record Type`
+`WP Admin > Customizations (D.T) > New Record Type`
 
 ---
 
@@ -41,7 +41,7 @@ Deleting a record type will permanently delete all records of that type. This ac
 
 Record type deletion can be actioned as follows:
 
-`WP Admin > Customizations (D.T) BETA > [Record Type] > Settings > Delete`
+`WP Admin > Customizations (D.T) > [Record Type] > Settings > Delete`
 
 ---
 
@@ -51,9 +51,9 @@ Yes. You can hide fields or tiles using the "Hide" option in their settings. Hid
 
 Tile and field hide functionality can be accessed from the following locations:
 
-`WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles > [Tile Edit] > Hide Tile`
+`WP Admin > Customizations (D.T) > [Record Type] > Tiles > [Tile Edit] > Hide Tile`
 
-`WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles > [Expand Tile] > [Field Edit] > Hide Field`
+`WP Admin > Customizations (D.T) > [Record Type] > Tiles > [Expand Tile] > [Field Edit] > Hide Field`
 
 ---
 
@@ -74,7 +74,7 @@ Use the Role Permissions tab to grant or restrict access for each user role on a
 
 To access roles and permissions specific to record types, see the following location:
 
-`WP Admin > Customizations (D.T) BETA > [Record Type] > Roles`
+`WP Admin > Customizations (D.T) > [Record Type] > Roles`
 
 ---
 

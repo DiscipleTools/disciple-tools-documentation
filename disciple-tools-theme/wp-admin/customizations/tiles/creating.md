@@ -2,7 +2,7 @@
 
 ## Accessing Tile Creation Functionality
 
-`WP Admin > Customizations (D.T) BETA > [Record Type] > Tiles > Add New Tile`
+`WP Admin > Customizations (D.T) > [Record Type] > Tiles > Add New Tile`
 
 To access the tile creation functionality, follow these steps:
 

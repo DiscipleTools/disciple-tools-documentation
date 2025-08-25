@@ -2,7 +2,7 @@
 
 ## Accessing New Record Type Functionality
 
-`WP Admin > Customizations (D.T) BETA > New Record Type`
+`WP Admin > Customizations (D.T) > New Record Type`
 
 To access the new record type functionality, follow these steps:
 
