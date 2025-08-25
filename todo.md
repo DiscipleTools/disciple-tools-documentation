@@ -54,6 +54,13 @@
 - [ ] Settings imports
 
 ### Customization (D.T) Section
-- [ ] Modify and create record types
-- [ ] Modify and create tiles and fields within those record types
+- [x] Introduction
+- [x] Accessing the Customizations Menu
+- [x] Working with Record Types
+- [x] Working with Tiles
+- [x] Working with Fields
+- [x] Role Permissions
+- [x] FAQs
+
+
 
