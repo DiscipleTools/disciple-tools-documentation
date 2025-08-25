@@ -124,6 +124,38 @@ Analyze your data and track progress with comprehensive metrics.
 
 ## WP Admin
 
+### Customizations
+
+Complete guide to customizing your Disciple.Tools instance through the admin interface.
+
+- **[Admin Customization Overview](./disciple-tools-theme/wp-admin/customizations/index.md)** - Introduction to the customizations section
+- **[Introduction](./disciple-tools-theme/wp-admin/customizations/introduction.md)** - Getting started with customizations
+- **[Accessing the Customizations Menu](./disciple-tools-theme/wp-admin/customizations/accessing-menu.md)** - How to navigate to customization options
+
+#### Record Types
+- **[Record Types Overview](./disciple-tools-theme/wp-admin/customizations/record-types/overview.md)** - Understanding record types
+- **[Creating Record Types](./disciple-tools-theme/wp-admin/customizations/record-types/creating.md)** - How to create new record types
+- **[Modifying Record Types](./disciple-tools-theme/wp-admin/customizations/record-types/modifying.md)** - Editing existing record types
+- **[Deleting Record Types](./disciple-tools-theme/wp-admin/customizations/record-types/deleting.md)** - Removing record types
+
+#### Tiles
+- **[Tiles Overview](./disciple-tools-theme/wp-admin/customizations/tiles/overview.md)** - Understanding tiles and their purpose
+- **[Creating Tiles](./disciple-tools-theme/wp-admin/customizations/tiles/creating.md)** - How to create new tiles
+- **[Modifying Tiles](./disciple-tools-theme/wp-admin/customizations/tiles/modifying.md)** - Editing existing tiles
+- **[Reordering Tiles](./disciple-tools-theme/wp-admin/customizations/tiles/reordering.md)** - Organizing tile layout
+
+#### Fields
+- **[Fields Overview](./disciple-tools-theme/wp-admin/customizations/fields/overview.md)** - Understanding field management
+- **[Field Types](./disciple-tools-theme/wp-admin/customizations/fields/field-types.md)** - Different types of fields available
+- **[Adding Fields](./disciple-tools-theme/wp-admin/customizations/fields/adding.md)** - How to add new fields
+- **[Modifying Fields](./disciple-tools-theme/wp-admin/customizations/fields/modifying.md)** - Editing existing fields
+- **[Reordering Fields](./disciple-tools-theme/wp-admin/customizations/fields/reordering.md)** - Organizing field layout
+- **[Field Options](./disciple-tools-theme/wp-admin/customizations/fields/options.md)** - Advanced field configuration
+
+#### Permissions & Support
+- **[Roles and Permissions](./disciple-tools-theme/wp-admin/customizations/roles-permissions.md)** - Managing user access and permissions
+- **[FAQ](./disciple-tools-theme/wp-admin/customizations/faq.md)** - Frequently asked questions about customizations
+
 ### DT Settings
 - **[Storage](./disciple-tools-theme/wp-admin/dt-settings/storage.md)** - How to configure storage settings
 
